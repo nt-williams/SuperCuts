@@ -1,0 +1,19 @@
+Name: Insert ->.;
+Description: Insert a bizzarro pipe.
+Binding: insertBizzarro
+Interactive: false
+
+Name: Insert rm(list = ls())
+Description: Insert rm() to clear the global environment
+Binding: insertRm
+Interactive: false
+
+Name: Insert %.>%
+Description: Insert the dot pipe from wrapr
+Binding: insertWraprPipe
+Interactive: false
+
+Name: Insert %in%
+Description: Insert %in%
+Binding: insertIn
+Interactive: false
